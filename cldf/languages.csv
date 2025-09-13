@@ -1,0 +1,20 @@
+ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Feature_IDs,Glottolog_Languoid_Level,Family,Speaker_Area
+abui1241,Abui,,-8.31058,124.588,abui1241,,1 18,language,Timor-Alor-Pantar,languages
+adan1251,Adang,,-8.18958,124.448,adan1251,,2,language,Timor-Alor-Pantar,languages
+blag1240,Blagar,,-8.31787,124.251,blag1240,,3 4,language,Timor-Alor-Pantar,languages
+hama1240,Hamap,,-8.26749,124.522,hama1240,,6,language,Timor-Alor-Pantar,languages
+kabo1247,Kabola,,-8.17316,124.539,kabo1247,,7,language,Timor-Alor-Pantar,languages
+kaer1234,Kaera,,-8.3287,124.0177,kaer1234,,8,language,Timor-Alor-Pantar,languages
+kafo1240,Kafoa,,-8.36572,124.446,kafo1240,,9,language,Timor-Alor-Pantar,languages
+kama1365,Kamang,,-8.26897,124.792,kama1365,,10 22 24,language,Timor-Alor-Pantar,languages
+kelo1247,Klon,,-8.40688,124.429,kelo1247,,12,language,Timor-Alor-Pantar,languages
+kuii1253,Kui (Indonesia),,-8.38204,124.791,kuii1253,,11 13,language,Timor-Alor-Pantar,languages
+kula1280,Kula (Indonesia),,-8.2384,125.004,kula1280,,14,language,Timor-Alor-Pantar,languages
+lamm1241,Western Pantar,,-8.52787,124.057,lamm1241,,26,language,Timor-Alor-Pantar,languages
+nede1245,Nedebang,,-8.28776,124.192,nede1245,,17,language,Timor-Alor-Pantar,languages
+rett1240,Reta,,-8.22481,124.36,rett1240,,19,language,Timor-Alor-Pantar,languages
+sarr1247,Sar (Indonesia),,-8.33,124.42,sarr1247,,20,language,Timor-Alor-Pantar,languages
+sawi1256,Sawila,,-8.29105,125.078,sawi1256,,21,language,Timor-Alor-Pantar,languages
+teiw1235,Teiwa,,-8.37662,124.174,teiw1235,,23,language,Timor-Alor-Pantar,languages
+wers1238,Wersing,,-8.33936,124.932,wers1238,,15 25,language,Timor-Alor-Pantar,languages
+timo1261,Timor-Alor-Pantar,,,,timo1261,,1 2 3 4 6 7 8 9 10 11 12 13 14 15 17 18 19 20 21 22 23 24 25 26,family,,families
