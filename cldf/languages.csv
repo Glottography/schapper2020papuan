@@ -1,4 +1,10 @@
 ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Feature_IDs,Glottolog_Languoid_Level,Family,Speaker_Area
+kira1248,Kiramang,,,,kira1248,,11,dialect,Timor-Alor-Pantar,dialects
+kuii1254,Kui,,,,kuii1254,,13,dialect,Timor-Alor-Pantar,dialects
+mane1265,Maneta,,,,mane1265,,15,dialect,Timor-Alor-Pantar,dialects
+papu1257,Papuna,,,,papu1257,,18,dialect,Timor-Alor-Pantar,dialects
+sibo1242,Sibo,,,,sibo1242,,22,dialect,Timor-Alor-Pantar,dialects
+tiay1238,Tiayai,,,,tiay1238,,24,dialect,Timor-Alor-Pantar,dialects
 abui1241,Abui,,-8.31058,124.588,abui1241,,1 18,language,Timor-Alor-Pantar,languages
 adan1251,Adang,,-8.18958,124.448,adan1251,,2,language,Timor-Alor-Pantar,languages
 blag1240,Blagar,,-8.31787,124.251,blag1240,,3 4,language,Timor-Alor-Pantar,languages

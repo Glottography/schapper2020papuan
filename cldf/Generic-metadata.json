@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/Glottography/schapper2020papuan",
             "rdf:type": "prov:Entity",
-            "dc:created": "9b08a2e",
+            "dc:created": "86fd95f",
             "dc:title": "Repository"
         },
         {
@@ -42,7 +42,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
-            "dc:extent": 3,
+            "dc:extent": 4,
             "tableSchema": {
                 "columns": [
                     {
@@ -96,7 +96,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 19,
+            "dc:extent": 25,
             "tableSchema": {
                 "columns": [
                     {
