@@ -55,3 +55,14 @@ cldfbench geojson.glottolog_distance cldf --format pipe
 | sawi1256 | 0.00 | True | 1 |
 | teiw1235 | 0.06 | False | 1 |
 | wers1238 | 0.00 | True | 3 |
+
+
+## Release
+
+Commit and push all changes.
+
+Run
+```
+cldfbench glottography.release cldfbench_schapper2020papuan.py vX.Y
+```
+and follow the instructions given in the output of the command.
